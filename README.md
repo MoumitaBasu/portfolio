@@ -1,12 +1,15 @@
-# Software Engineer | Data Science, AI and ML Practitioner
+# Tech Consultant | Data Science, AI and ML Practitioner
 
-#### 👋 Hey there! I'm a Software Engineer from Kolkata who loves to code in Python. I am passionate about the latest innovations in Software Engineering, Machine Learning, Generative AI, and Data Science.
+#### 👋 Hey there! I’m a Software Engineer from Kolkata, specializing in Python, AI, ML, and Data Science. Passionate about transforming business processes through technology, I focus on delivering data-driven solutions that enhance efficiency and drive growth.
 
-- 💡 I love building simple applications which can be used in everyday life.
-- 👩🏻‍💻 I have worked with Tata Consultancy Services as a Java Developer and Python Tech Lead. I have also interned at BMW where I built a multidisciplinary framework from scratch.
+- 💡 I enjoy building innovative applications that address real-world challenges, with a keen interest in Generative AI and Automation. I have hands-on experience working with cross-functional teams and implementing AI/ML models for business optimization.
+- 💼 Professional Experience:
 
-- 📂 Check out my [GitHub Page](https://github.com/MoumitaBasu) to see what I'm working on!  
+      - Tata Consultancy Services: Led teams as a Python Technical Lead and Java Developer, automating workflows and optimizing processes, saving clients time and cost.
+      - BMW: Developed a multidisciplinary framework from scratch, applying AI and optimization techniques for vehicle design.
+
+- 📂 Check out my [GitHub Page](https://github.com/MoumitaBasu) to explore my projects, including applications in AI/ML, robotics, and data analysis.  
 - 📄 **[View My CV here](assets/CV_moumita_Basu.pdf)**
 
-If you have any job opportunity, innovative ideas, or just want to chat, feel free to drop me an email here: [📧 moumitabasu597@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=moumitabasu597@gmail.com).
+If you you’re looking for innovative solutions, collaboration opportunities, or just want to chat, feel free to drop me an email here: [📧 moumitabasu597@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=moumitabasu597@gmail.com).
 Let’s connect and collaborate! 🤝
