@@ -5,8 +5,8 @@
 #### 💡 I enjoy building innovative applications that address real-world challenges, with a keen interest in Generative AI and Automation. I have hands-on experience working with cross-functional teams and implementing AI/ML models for business optimization.
 #### 💼 Professional Experience:
 
-- Tata Consultancy Services: Led teams as a Python Technical Lead and Java Developer, automating workflows and optimizing processes, saving client's time and cost.
-- BMW: Developed a multidisciplinary framework from scratch, applying AI and optimization techniques for vehicle design.
+#### - Tata Consultancy Services: Led teams as a Python Technical Lead and Java Developer, automating workflows and optimizing processes, saving client's time and cost.
+#### - BMW: Developed a multidisciplinary framework from scratch, applying AI and optimization techniques for vehicle design.
 
 #### 📂 Check out my [GitHub Page](https://github.com/MoumitaBasu) to explore my projects, including applications in AI/ML, robotics, and data analysis.  
 #### 📄 **[View My CV here](assets/CV_moumita_Basu.pdf)**
